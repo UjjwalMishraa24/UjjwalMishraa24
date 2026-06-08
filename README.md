@@ -13,11 +13,15 @@ ujjwal@arch:~$ whoami
 
 ```
 ~ currently
-  ├── 2nd year B.Tech CS (AI) @ GGSIPU
-  ├── building: Parliament · Arachnid · JARVIS
-  ├── exploring: NLP, async Python, backend systems
-  └── daily driver: Arch + Hyprland + Neovim
+  ├── 2nd year B.Tech CS (AI) @(USICT)GGSIPU
+  ├── exploring: Linux , AI/ML , Cybersecurity
+  └── daily driver: Arch + Hyprland + Neovim(Btw)
 ```
+
+---
+## activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ujjwalmishraa24&bg_color=282828&color=fabd2f&line=b8bb26&point=fb4934&hide_border=true&area=true&custom_title=contribution%20graph)](https://github.com/Ujjwalmishraa24)
 
 ---
 
@@ -82,12 +86,6 @@ ujjwal@arch:~$ whoami
 
 ---
 
-## activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ujjwalmishraa24&bg_color=282828&color=fabd2f&line=b8bb26&point=fb4934&hide_border=true&area=true&custom_title=contribution%20graph)](https://github.com/Ujjwalmishraa24)
-
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ujjwal-mishra-7b65aa323/"><img src="https://img.shields.io/badge/linkedin-282828?style=flat-square&logo=linkedin&logoColor=83a598" /></a>
   &nbsp;
@@ -95,10 +93,6 @@ ujjwal@arch:~$ whoami
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Ujjwalmishraa24&style=flat-square&color=282828&label=visitors" />
 </p>
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/linkedin-282828?style=flat-square&logo=linkedin&logoColor=83a598" /></a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/mail-282828?style=flat-square&logo=gmail&logoColor=fb4934" /></a>
-</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
