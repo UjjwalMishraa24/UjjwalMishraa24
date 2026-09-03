@@ -85,10 +85,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/ujjwalmishraa24/ujjwalmishraa24/output/github-activity-graph.svg" />
-
-<br><br>
-
 <img src="https://raw.githubusercontent.com/ujjwalmishraa24/ujjwalmishraa24/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
