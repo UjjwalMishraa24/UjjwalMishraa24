@@ -22,6 +22,16 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.svg
 
+      - name: fetch activity graph svg
+        # One scheduled fetch a day instead of one per profile view —
+        # keeps us far away from the public instance's rate limits.
+        # continue-on-error so a transient failure never blocks the snake.
+        continue-on-error: true
+        run: |
+          curl --fail --retry 3 --retry-delay 10 -o dist/github-activity-graph.svg \
+            "https://github-readme-activity-graph.vercel.app/graph?username=ujjwalmishraa24&theme=tokyo-night&hide_border=true&bg_color=00000000&color=7aa2f7&line=7aa2f7&point=a9b1d6"
+          test -s dist/github-activity-graph.svg
+
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:

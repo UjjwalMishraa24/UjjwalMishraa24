@@ -85,7 +85,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwalmishraa24&theme=tokyo-night&hide_border=true&bg_color=00000000&color=7aa2f7&line=7aa2f7&point=a9b1d6" />
+<img width="100%" src="https://raw.githubusercontent.com/ujjwalmishraa24/ujjwalmishraa24/output/github-activity-graph.svg" />
 
 <br><br>
 
