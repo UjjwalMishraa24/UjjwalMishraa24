@@ -1,98 +1,112 @@
-```
-ujjwal@arch:~$ whoami
-```
+<div align="center">
 
-<h1 align="center">hey, i'm ujjwal mishra 👾</h1>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=7AA2F7&background=00000000&center=true&vCenter=true&width=560&lines=Ujjwal+Mishra;curious+about+everything;C%2FC%2B%2B+%7C+Python+%7C+low-level+systems;Arch+Linux+%2B+Hyprland" alt="typing-svg" />
 
-<p align="center">
-  CS undergrad @ USICT · building things with AI/ML and breaking things with Linux<br/>
-  <em>terminal dweller · open-source curious · arch btw</em>
-</p>
+</div>
 
----
+<br>
 
 ```
-~ currently
-  ├── 2nd year B.Tech CS (AI) @(USICT)GGSIPU
-  ├── exploring: Linux , AI/ML , Cybersecurity
-  └── daily driver: Arch + Hyprland + Neovim(Btw)
+
+┌──(ujjwal@arch)-[~]
+└─$ whoami
+
+  os        Arch Linux
+  wm        Hyprland
+  editor    Neovim + tmux
+  shell     bash
+  focus     low-level systems, open source, hardware tinkering
+  status    pre-final year CS student
+
 ```
 
----
-## activity
+<br>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ujjwalmishraa24&bg_color=282828&color=fabd2f&line=b8bb26&point=fb4934&hide_border=true&area=true&custom_title=contribution%20graph)](https://github.com/Ujjwalmishraa24)
+### `~/tech-stack`
 
----
+**Languages**
 
-## stack
+![C](https://img.shields.io/badge/C-1a1b26?style=for-the-badge&logo=c&logoColor=7aa2f7)
+![C++](https://img.shields.io/badge/C%2B%2B-1a1b26?style=for-the-badge&logo=cplusplus&logoColor=7aa2f7)
+![Python](https://img.shields.io/badge/Python-1a1b26?style=for-the-badge&logo=python&logoColor=7aa2f7)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1b26?style=for-the-badge&logo=javascript&logoColor=7aa2f7)
+![Bash](https://img.shields.io/badge/Bash-1a1b26?style=for-the-badge&logo=gnubash&logoColor=7aa2f7)
+![Rust](https://img.shields.io/badge/Rust-1a1b26?style=for-the-badge&logo=rust&logoColor=7aa2f7)
+![Lua](https://img.shields.io/badge/Lua-1a1b26?style=for-the-badge&logo=lua&logoColor=7aa2f7)
+![SQL](https://img.shields.io/badge/SQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=7aa2f7)
 
-**languages**
+**Web / Backend**
 
-<p>
-  <img src="https://img.shields.io/badge/Python-282828?style=flat-square&logo=python&logoColor=fabd2f" />
-  <img src="https://img.shields.io/badge/C-282828?style=flat-square&logo=c&logoColor=83a598" />
-  <img src="https://img.shields.io/badge/C++-282828?style=flat-square&logo=cplusplus&logoColor=83a598" />
-  <img src="https://img.shields.io/badge/JavaScript-282828?style=flat-square&logo=javascript&logoColor=fabd2f" />
-  <img src="https://img.shields.io/badge/TypeScript-282828?style=flat-square&logo=typescript&logoColor=83a598" />
-  <img src="https://img.shields.io/badge/Go-282828?style=flat-square&logo=go&logoColor=83a598" />
-  <img src="https://img.shields.io/badge/Bash-282828?style=flat-square&logo=gnu-bash&logoColor=b8bb26" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-1a1b26?style=for-the-badge&logo=nodedotjs&logoColor=7aa2f7)
+![React](https://img.shields.io/badge/React-1a1b26?style=for-the-badge&logo=react&logoColor=7aa2f7)
+![Flask](https://img.shields.io/badge/Flask-1a1b26?style=for-the-badge&logo=flask&logoColor=7aa2f7)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1b26?style=for-the-badge&logo=fastapi&logoColor=7aa2f7)
 
-**ai / ml**
+**Data / ML**
 
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-282828?style=flat-square&logo=pytorch&logoColor=fb4934" />
-  <img src="https://img.shields.io/badge/FastAPI-282828?style=flat-square&logo=fastapi&logoColor=8ec07c" />
-</p>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1b26?style=for-the-badge&logo=tensorflow&logoColor=7aa2f7)
+![PyTorch](https://img.shields.io/badge/PyTorch-1a1b26?style=for-the-badge&logo=pytorch&logoColor=7aa2f7)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-1a1b26?style=for-the-badge&logo=scikitlearn&logoColor=7aa2f7)
+![Keras](https://img.shields.io/badge/Keras-1a1b26?style=for-the-badge&logo=keras&logoColor=7aa2f7)
+![OpenCV](https://img.shields.io/badge/OpenCV-1a1b26?style=for-the-badge&logo=opencv&logoColor=7aa2f7)
+![Pandas](https://img.shields.io/badge/Pandas-1a1b26?style=for-the-badge&logo=pandas&logoColor=7aa2f7)
+![NumPy](https://img.shields.io/badge/NumPy-1a1b26?style=for-the-badge&logo=numpy&logoColor=7aa2f7)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1a1b26?style=for-the-badge&logo=matplotlib&logoColor=7aa2f7)
+![CUDA](https://img.shields.io/badge/CUDA-1a1b26?style=for-the-badge&logo=nvidia&logoColor=7aa2f7)
 
-**frontend**
+**Databases**
 
-<p>
-  <img src="https://img.shields.io/badge/React-282828?style=flat-square&logo=react&logoColor=83a598" />
-  <img src="https://img.shields.io/badge/HTML-282828?style=flat-square&logo=html5&logoColor=fb4934" />
-  <img src="https://img.shields.io/badge/CSS-282828?style=flat-square&logo=css3&logoColor=83a598" />
-</p>
+![SQLite](https://img.shields.io/badge/SQLite-1a1b26?style=for-the-badge&logo=sqlite&logoColor=7aa2f7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=7aa2f7)
+![MySQL](https://img.shields.io/badge/MySQL-1a1b26?style=for-the-badge&logo=mysql&logoColor=7aa2f7)
 
-**backend & databases**
+**Cloud / DevOps / Tools**
 
-<p>
-  <img src="https://img.shields.io/badge/Django-282828?style=flat-square&logo=django&logoColor=b8bb26" />
-  <img src="https://img.shields.io/badge/Node.js-282828?style=flat-square&logo=node.js&logoColor=b8bb26" />
-  <img src="https://img.shields.io/badge/PostgreSQL-282828?style=flat-square&logo=postgresql&logoColor=83a598" />
-  <img src="https://img.shields.io/badge/MongoDB-282828?style=flat-square&logo=mongodb&logoColor=b8bb26" />
-  <img src="https://img.shields.io/badge/SQLite-282828?style=flat-square&logo=sqlite&logoColor=83a598" />
-</p>
+![Docker](https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=7aa2f7)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-1a1b26?style=for-the-badge&logo=googlecloud&logoColor=7aa2f7)
+![Postman](https://img.shields.io/badge/Postman-1a1b26?style=for-the-badge&logo=postman&logoColor=7aa2f7)
 
-**tools & environment**
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/Arch_Linux-282828?style=flat-square&logo=arch-linux&logoColor=1793d1" />
-  <img src="https://img.shields.io/badge/Neovim-282828?style=flat-square&logo=neovim&logoColor=57a143" />
-  <img src="https://img.shields.io/badge/Postman-282828?style=flat-square&logo=postman&logoColor=fb4934" />
-  <img src="https://img.shields.io/badge/Docker-282828?style=flat-square&logo=docker&logoColor=83a598" />
-</p>
+### `~/github-stats`
 
----
+<div align="center">
 
-## projects
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ujjwalmishraa24&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalmishraa24&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7aa2f7&text_color=a9b1d6" />
 
-| project | what it does |
-|---|---|
-| [**Parliament**](https://github.com/Ujjwalmishraa24/parliament) | Django microblogging platform |
-| [**Arachnid**](https://github.com/Ujjwalmishraa24/arachnid) | async Python web crawler with asyncio + aiohttp |
-| [**JARVIS**](https://github.com/Ujjwalmishraa24/jarvis) | voice assistant integrating AI APIs |
-| [**Sysmon**](https://github.com/Ujjwalmishraa24/sysmon) | hacker-aesthetic terminal system monitor (curses + Tokyo Night) |
+<img src="https://streak-stats.demolab.com/?user=ujjwalmishraa24&theme=tokyonight&hide_border=true&background=00000000&ring=7aa2f7&fire=7aa2f7&currStreakLabel=a9b1d6" />
 
----
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ujjwal-mishra-7b65aa323/"><img src="https://img.shields.io/badge/linkedin-282828?style=flat-square&logo=linkedin&logoColor=83a598" /></a>
-  &nbsp;
-  <a href="mailto:ujjwalmishraa24@gmail.com"><img src="https://img.shields.io/badge/mail-282828?style=flat-square&logo=gmail&logoColor=fb4934" /></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Ujjwalmishraa24&style=flat-square&color=282828&label=visitors" />
-</p>
+<br>
 
+### `~/contribution-activity`
 
+<div align="center">
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwalmishraa24&theme=tokyo-night&hide_border=true&bg_color=00000000&color=7aa2f7&line=7aa2f7&point=a9b1d6" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/ujjwalmishraa24/ujjwalmishraa24/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+<br>
+
+### `~/contact`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](https://www.linkedin.com/in/ujjwal-mishra-7b65aa323/)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ujjwalmishraa24&label=Profile%20Views&color=1a1b26&style=for-the-badge&base=1111)
+
+</div>
