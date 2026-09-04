@@ -85,6 +85,7 @@
 
 <div align="center">
 
+[![Gmail](https://img.shields.io/badge/ujjwalmishraa24@gmail.com-282828?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:ujjwalmishraa24@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-282828?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/ujjwal-mishra-7b65aa323/)
 
 </div>
