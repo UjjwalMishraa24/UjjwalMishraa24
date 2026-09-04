@@ -81,16 +81,6 @@
 
 <br>
 
-### `~/contribution-activity`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ujjwalmishraa24/ujjwalmishraa24/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-<br>
-
 ### `~/contact`
 
 <div align="center">
